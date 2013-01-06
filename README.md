@@ -1,0 +1,4 @@
+themeanbot
+==========
+
+Twitter Dictionary bot
