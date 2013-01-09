@@ -1,8 +1,9 @@
 #!/usr/bin/env ruby
+$LOAD_PATH.unshift(File.dirname(__FILE__))
 
 require 'rubygems'
 require 'chatterbot/dsl'
-require 'bin/process_tweet'
+require 'process_tweet'
 
 
 # remove this to send out tweets
